@@ -1,0 +1,9 @@
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\New_Laba5\New_Laba5\bin\Debug\New_Laba5.exe.config
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\New_Laba5\New_Laba5\bin\Debug\New_Laba5.exe
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\New_Laba5\New_Laba5\bin\Debug\New_Laba5.pdb
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\New_Laba5\New_Laba5\obj\Debug\New_Laba5.csprojResolveAssemblyReference.cache
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\New_Laba5\New_Laba5\obj\Debug\New_Laba5.Properties.Resources.resources
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\New_Laba5\New_Laba5\obj\Debug\New_Laba5.csproj.GenerateResource.Cache
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\New_Laba5\New_Laba5\obj\Debug\New_Laba5.csproj.CoreCompileInputs.cache
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\New_Laba5\New_Laba5\obj\Debug\New_Laba5.exe
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\New_Laba5\New_Laba5\obj\Debug\New_Laba5.pdb
